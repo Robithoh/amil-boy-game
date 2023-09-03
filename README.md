@@ -1,2 +1,2 @@
 # amil-boy-game
-AmilBoy Game :)
+An Endless Running game with 'Amil Boy as the main Character
